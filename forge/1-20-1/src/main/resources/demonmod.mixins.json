@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "package": "com.dezzmeister.demonmod.mixins",
+    "compatibility_level": "JAVA_17",
+    "refmap": "demonmod.refmap.json",
+    "mixins": [
+        "EntityMixin"
+    ],
+    "client": [],
+    "minVersion": "0.8"
+}
